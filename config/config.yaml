@@ -353,7 +353,7 @@ ai:
   
   model: "nvidia_nim/NVIDIANIM"
 
-  api_key: "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"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "AI_API_KEY"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: ""                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
